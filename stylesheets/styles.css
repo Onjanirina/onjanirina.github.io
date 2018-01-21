@@ -1008,3 +1008,11 @@ footer {
     width: auto;
   }
 }
+
+ul.social-profiles {
+   display:inline;
+}
+
+ul.social-profiles li {
+   display: inline;
+}
