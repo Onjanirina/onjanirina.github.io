@@ -1016,3 +1016,11 @@ ul.social-profiles {
 ul.social-profiles li {
    display: inline;
 }
+
+.wrapper {
+  text-align:center;
+}
+
+.img-responsive {
+    margin-top: 24px;
+}
